@@ -88,5 +88,365 @@
     "problemTitle": "Longest SubArray (Problem E)",
     "languageUsed": "Java",
     "RunTime": "1ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000039A",
+    "name": "Sumit Soni",
+    "status": "All Test Case Pass",
+    "submissionTime": "7:15 PM",
+    "problemTitle": "Find Max Num (Problem A)",
+    "languageUsed": "Java",
+    "RunTime": "0ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000039B",
+    "name": "Sumit Soni",
+    "status": "All Test Case Pass",
+    "submissionTime": "7:25 PM",
+    "problemTitle": "Love For ODD (Problem B)",
+    "languageUsed": "Python",
+    "RunTime": "2ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000039C",
+    "name": "Sumit Soni",
+    "status": "RunTime Error",
+    "submissionTime": "7:55 PM",
+    "problemTitle": "Min Subset (Problem C)",
+    "languageUsed": "C++",
+    "RunTime": "10ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000039D",
+    "name": "Sumit Soni",
+    "status": "All Test Case Pass",
+    "submissionTime": "8:15 PM",
+    "problemTitle": "Sort Array (Problem D)",
+    "languageUsed": "Python",
+    "RunTime": "50ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000039E",
+    "status": "All Test Case Pass",
+    "name": "Sumit Soni",
+    "submissionTime": "8:35 PM",
+    "problemTitle": "Longest SubArray (Problem E)",
+    "languageUsed": "Java",
+    "RunTime": "10ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000040A",
+    "name": "Shreya Singh",
+    "status": "All Test Case Pass",
+    "submissionTime": "7:15 PM",
+    "problemTitle": "Find Max Num (Problem A)",
+    "languageUsed": "Java",
+    "RunTime": "0ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000040B",
+    "name": "Shreya Singh",
+    "status": "All Test Case Pass",
+    "submissionTime": "7:25 PM",
+    "problemTitle": "Love For ODD (Problem B)",
+    "languageUsed": "Python",
+    "RunTime": "2ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000040C",
+    "name": "Shreya Singh",
+    "status": "RunTime Error",
+    "submissionTime": "7:55 PM",
+    "problemTitle": "Min Subset (Problem C)",
+    "languageUsed": "C++",
+    "RunTime": "10ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000040D",
+    "name": "Shreya Singh",
+    "status": "Time Limit Exceed",
+    "submissionTime": "8:15 PM",
+    "problemTitle": "Sort Array (Problem D)",
+    "languageUsed": "Python",
+    "RunTime": "50ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000040E",
+    "status": "All Test Case Pass",
+    "name": "Shreya Singh",
+    "submissionTime": "8:35 PM",
+    "problemTitle": "Longest SubArray (Problem E)",
+    "languageUsed": "Java",
+    "RunTime": "10ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000041A",
+    "name": "Aviral Singh",
+    "status": "RunTime Error",
+    "submissionTime": "7:15 PM",
+    "problemTitle": "Find Max Num (Problem A)",
+    "languageUsed": "Java",
+    "RunTime": "0ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000041B",
+    "name": "Aviral Singh",
+    "status": "All Test Case Pass",
+    "submissionTime": "7:25 PM",
+    "problemTitle": "Love For ODD (Problem B)",
+    "languageUsed": "Python",
+    "RunTime": "2ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000041C",
+    "name": "Aviral Singh",
+    "status": "All Test Case Pass",
+    "submissionTime": "7:55 PM",
+    "problemTitle": "Min Subset (Problem C)",
+    "languageUsed": "C++",
+    "RunTime": "10ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000041D",
+    "name": "Aviral Singh",
+    "status": "Time Limit Exceed",
+    "submissionTime": "8:15 PM",
+    "problemTitle": "Sort Array (Problem D)",
+    "languageUsed": "Python",
+    "RunTime": "50ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000041E",
+    "status": "All Test Case Pass",
+    "name": "Aviral Singh",
+    "submissionTime": "8:35 PM",
+    "problemTitle": "Longest SubArray (Problem E)",
+    "languageUsed": "Java",
+    "RunTime": "10ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000042A",
+    "name": "Aman",
+    "status": "All Test Case Pass",
+    "submissionTime": "7:35 PM",
+    "problemTitle": "Find Max Num (Problem A)",
+    "languageUsed": "C++",
+    "RunTime": "1ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000042B",
+    "name": "Aman",
+    "status": "Time Limit Exceed",
+    "submissionTime": "7:55 PM",
+    "problemTitle": "Love For ODD (Problem B)",
+    "languageUsed": "C++",
+    "RunTime": "2ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000042C",
+    "name": "Aman",
+    "status": "All Test Case Pass",
+    "submissionTime": "8:35 PM",
+    "problemTitle": "Min Subset (Problem C)",
+    "languageUsed": "C++",
+    "RunTime": "0ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000042D",
+    "name": "Aman",
+    "status": "All Test Case Pass",
+    "submissionTime": "8:55 PM",
+    "problemTitle": "Sort Array (Problem D)",
+    "languageUsed": "C++",
+    "RunTime": "3ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000042E",
+    "name": "Aman",
+    "status": "Time Limit Exceed",
+    "submissionTime": "9:15 PM",
+    "problemTitle": "Longest SubArray (Problem E)",
+    "languageUsed": "C++",
+    "RunTime": "12ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000043A",
+    "name": "Rahul",
+    "status": "All Test Case Pass",
+    "submissionTime": "7:15 PM",
+    "problemTitle": "Find Max Num (Problem A)",
+    "languageUsed": "Java",
+    "RunTime": "0ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000043B",
+    "name": "Rahul",
+    "status": "RunTime Error",
+    "submissionTime": "7:25 PM",
+    "problemTitle": "Love For ODD (Problem B)",
+    "languageUsed": "Java",
+    "RunTime": "0ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000043C",
+    "name": "Rahul",
+    "status": "All Test Case Pass",
+    "submissionTime": "7:55 PM",
+    "problemTitle": "Min Subset (Problem C)",
+    "languageUsed": "Java",
+    "RunTime": "0ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000043D",
+    "name": "Rahul",
+    "status": "RunTime Error",
+    "submissionTime": "8:15 PM",
+    "problemTitle": "Sort Array (Problem D)",
+    "languageUsed": "Java",
+    "RunTime": "0ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000043E",
+    "status": "All Test Case Pass",
+    "name": "Rahul",
+    "submissionTime": "8:35 PM",
+    "problemTitle": "Longest SubArray (Problem E)",
+    "languageUsed": "Java",
+    "RunTime": "1ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000044A",
+    "name": "Satyam",
+    "status": "150/200 Test Case Pass",
+    "submissionTime": "7:15 PM",
+    "problemTitle": "Find Max Num (Problem A)",
+    "languageUsed": "Java",
+    "RunTime": "0ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000044B",
+    "name": "Satyam",
+    "status": "41/80 Test Case Pass",
+    "submissionTime": "7:25 PM",
+    "problemTitle": "Love For ODD (Problem B)",
+    "languageUsed": "Python",
+    "RunTime": "2ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000044C",
+    "name": "Satyam",
+    "status": "RunTime Error",
+    "submissionTime": "7:55 PM",
+    "problemTitle": "Min Subset (Problem C)",
+    "languageUsed": "C++",
+    "RunTime": "10ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000044D",
+    "name": "Satyam",
+    "status": "All Test Case Pass",
+    "submissionTime": "8:15 PM",
+    "problemTitle": "Sort Array (Problem D)",
+    "languageUsed": "Python",
+    "RunTime": "50ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000044E",
+    "status": "25/56 Test Case Pass",
+    "name": "Satyam",
+    "submissionTime": "8:35 PM",
+    "problemTitle": "Longest SubArray (Problem E)",
+    "languageUsed": "Java",
+    "RunTime": "10ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000045A",
+    "name": "Priya ",
+    "status": "RunTime Error",
+    "submissionTime": "7:15 PM",
+    "problemTitle": "Find Max Num (Problem A)",
+    "languageUsed": "Java",
+    "RunTime": "0ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000045B",
+    "name": "Priya ",
+    "status": "20/80 Test Case Pass",
+    "submissionTime": "7:25 PM",
+    "problemTitle": "Love For ODD (Problem B)",
+    "languageUsed": "Python",
+    "RunTime": "2ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000045C",
+    "name": "Priya ",
+    "status": "RunTime Error",
+    "submissionTime": "7:55 PM",
+    "problemTitle": "Min Subset (Problem C)",
+    "languageUsed": "C++",
+    "RunTime": "10ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000045D",
+    "name": "Priya ",
+    "status": "Time Limit Exceed",
+    "submissionTime": "8:15 PM",
+    "problemTitle": "Sort Array (Problem D)",
+    "languageUsed": "Python",
+    "RunTime": "50ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000045E",
+    "status": "All Test Case Pass",
+    "name": "Priya ",
+    "submissionTime": "8:35 PM",
+    "problemTitle": "Longest SubArray (Problem E)",
+    "languageUsed": "Java",
+    "RunTime": "10ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000046A",
+    "name": "Ritika",
+    "status": "RunTime Error",
+    "submissionTime": "7:15 PM",
+    "problemTitle": "Find Max Num (Problem A)",
+    "languageUsed": "Java",
+    "RunTime": "0ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000046B",
+    "name": "Ritika",
+    "status": "RunTime Error",
+    "submissionTime": "7:25 PM",
+    "problemTitle": "Love For ODD (Problem B)",
+    "languageUsed": "Python",
+    "RunTime": "2ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000046C",
+    "name": "Ritika",
+    "status": "All Test Case Pass",
+    "submissionTime": "7:55 PM",
+    "problemTitle": "Min Subset (Problem C)",
+    "languageUsed": "C++",
+    "RunTime": "10ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000046D",
+    "name": "Ritika",
+    "status": "Time Limit Exceed",
+    "submissionTime": "8:15 PM",
+    "problemTitle": "Sort Array (Problem D)",
+    "languageUsed": "Python",
+    "RunTime": "50ms"
+  },
+  {
+    "subID": "6336f8e6fc13ae2bd5000046E",
+    "status": "RunTime Error",
+    "name": "Ritika",
+    "submissionTime": "8:35 PM",
+    "problemTitle": "Longest SubArray (Problem E)",
+    "languageUsed": "Java",
+    "RunTime": "10ms"
   }
 ]
