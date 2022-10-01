@@ -1,0 +1,104 @@
+[
+  {
+    "id": "6336f8e6fc13ae2bd5000037",
+    "rank": 2,
+    "name": "Sherline Selbie",
+    "score": 16,
+    "scoreA": {
+      "subID": "6336f8e6fc13ae2bd5000037A",
+      "name": "Sherline Selbie",
+      "status": "All Test Case Pass",
+      "submissionTime": "7:35 PM",
+      "problemTitle": "Find Max Num (Problem A)",
+      "languageUsed": "C++",
+      "RunTime": "1ms"
+    },
+    "scoreB": {
+      "subID": "6336f8e6fc13ae2bd5000037B",
+      "name": "Sherline Selbie",
+      "status": "All Test Case Pass",
+      "submissionTime": "7:55 PM",
+      "problemTitle": "Love For ODD (Problem B)",
+      "languageUsed": "C++",
+      "RunTime": "2ms"
+    },
+    "scoreC": {
+      "subID": "6336f8e6fc13ae2bd5000037C",
+      "name": "Sherline Selbie",
+      "status": "All Test Case Pass",
+      "submissionTime": "8:35 PM",
+      "problemTitle": "Min Subset (Problem C)",
+      "languageUsed": "C++",
+      "RunTime": "0ms"
+    },
+    "scoreD": {
+      "subID": "6336f8e6fc13ae2bd5000037D",
+      "name": "Sherline Selbie",
+      "status": "All Test Case Pass",
+      "submissionTime": "8:55 PM",
+      "problemTitle": "Sort Array (Problem D)",
+      "languageUsed": "C++",
+      "RunTime": "3ms"
+    },
+    "scoreE": {
+      "subID": "6336f8e6fc13ae2bd5000037E",
+      "name": "Sherline Selbie",
+      "status": "Time Limit Exceed",
+      "submissionTime": "9:15 PM",
+      "problemTitle": "Longest SubArray (Problem E)",
+      "languageUsed": "C++",
+      "RunTime": "12ms"
+    }
+  },
+  {
+    "id": "6336f8e6fc13ae2bd5000038",
+    "rank": 1,
+    "name": "Harshit Ratan Shukla",
+    "score": 20,
+    "scoreA": {
+      "subID": "6336f8e6fc13ae2bd5000038A",
+      "name": "Harshit Ratan Shukla",
+      "status": "All Test Case Pass",
+      "submissionTime": "7:15 PM",
+      "problemTitle": "Find Max Num (Problem A)",
+      "languageUsed": "Java",
+      "RunTime": "0ms"
+    },
+    "scoreB": {
+      "subID": "6336f8e6fc13ae2bd5000038B",
+      "name": "Harshit Ratan Shukla",
+      "status": "All Test Case Pass",
+      "submissionTime": "7:25 PM",
+      "problemTitle": "Love For ODD (Problem B)",
+      "languageUsed": "Java",
+      "RunTime": "0ms"
+    },
+    "scoreC": {
+      "subID": "6336f8e6fc13ae2bd5000038C",
+      "name": "Harshit Ratan Shukla",
+      "status": "All Test Case Pass",
+      "submissionTime": "7:55 PM",
+      "problemTitle": "Min Subset (Problem C)",
+      "languageUsed": "Java",
+      "RunTime": "0ms"
+    },
+    "scoreD": {
+      "subID": "6336f8e6fc13ae2bd5000038D",
+      "name": "Harshit Ratan Shukla",
+      "status": "All Test Case Pass",
+      "submissionTime": "8:15 PM",
+      "problemTitle": "Sort Array (Problem D)",
+      "languageUsed": "Java",
+      "RunTime": "0ms"
+    },
+    "scoreE": {
+      "subID": "6336f8e6fc13ae2bd5000038E",
+      "status": "All Test Case Pass",
+      "name": "Harshit Ratan Shukla",
+      "submissionTime": "8:35 PM",
+      "problemTitle": "Longest SubArray (Problem E)",
+      "languageUsed": "Java",
+      "RunTime": "1ms"
+    }
+  }
+]
