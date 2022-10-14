@@ -10,7 +10,7 @@ import { Link } from "react-router-dom";
 
 export default function DataTable(props) {
   return (
-    <TableContainer component={Paper} sx={{marginTop:'50px'}}>
+    <TableContainer component={Paper} sx={{marginTop:'30px'}}>
       <Table sx={{ width: '100%' }} aria-label="caption table">
         <caption>Scoreboard</caption>
         <TableHead>
@@ -18,11 +18,11 @@ export default function DataTable(props) {
             <TableCell><b>Rank</b></TableCell>
             <TableCell><b>Name</b></TableCell>
             <TableCell><b>Score</b></TableCell>
-            <TableCell><b>Problem A</b></TableCell>
-            <TableCell><b>Problem B</b></TableCell>
-            <TableCell><b>Problem C</b></TableCell>
-            <TableCell><b>Problem D</b></TableCell>
-            <TableCell><b>Problem E</b></TableCell>
+            <TableCell><b>Problem A Result</b></TableCell>
+            <TableCell><b>Problem B Result</b></TableCell>
+            <TableCell><b>Problem C Result</b></TableCell>
+            <TableCell><b>Problem D Result</b></TableCell>
+            <TableCell><b>Problem E Result</b></TableCell>
           </TableRow>
         </TableHead>
         <TableBody>

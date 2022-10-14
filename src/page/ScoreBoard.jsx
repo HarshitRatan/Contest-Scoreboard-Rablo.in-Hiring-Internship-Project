@@ -13,7 +13,7 @@ import MenuItem from "@mui/material/MenuItem";
 import InputLabel from "@mui/material/InputLabel";
 import FormControl from "@mui/material/FormControl";
 import Select from "@mui/material/Select";
-import { Container } from "@mui/material";
+import { Container, Typography } from "@mui/material";
 
 const ScoreBoard = () => {
   const [contestData, setContestData] = useState([]);
@@ -169,6 +169,21 @@ const ScoreBoard = () => {
           )}
         </Grid>
       </Grid>
+
+      <Stack
+        direction="row"
+        justifyContent="center"
+        alignItems="center"
+        spacing={2}
+        sx={{ marginTop: "50px" }}
+      >
+        <Typography variant="h5">
+          <b>
+            Click on <span style={{ color: "#c10808" }}>Result</span> To View More
+            Details.
+          </b>
+        </Typography>
+      </Stack>
 
       {filterName.length === 0 && <DataTable data={contestData} />}
       {filterName.length > 0 && (
