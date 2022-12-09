@@ -1,5 +1,5 @@
 ### `Click Here For Live Demo : `
-https://genuine-praline-372f8d.netlify.app/
+https://contest-scoreboard.netlify.app/
 
 ### `Prerequisite`
 
